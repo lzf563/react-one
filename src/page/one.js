@@ -7,7 +7,7 @@ class one extends React.Component{
         return(
             <div>
                 <h1>这个是one页面出来的时候。</h1>
-                <Button>点击按钮</Button>
+                <Button type="primary">点击按钮</Button>
             </div>
         )
     }
